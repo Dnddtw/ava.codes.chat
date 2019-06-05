@@ -1,4 +1,2 @@
 # ava.codes.chat
-There is an online chat for test.
-
-http://arn.rcktprft.ru/
+There is an online chat for testing chat.
