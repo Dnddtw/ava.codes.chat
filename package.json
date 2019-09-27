@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "There is an online chat for testing chat.",
+  "homepage": "http://npmjke.github.io/ava.codes.chat",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
